@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,A
+#EXTINF:-1,TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1,B
+#EXTINF:-1,TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
