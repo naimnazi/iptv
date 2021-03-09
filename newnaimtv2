@@ -11,6 +11,10 @@ http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA", TV3(TESTT)
+#http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
 https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
 
