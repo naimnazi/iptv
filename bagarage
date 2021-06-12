@@ -161,6 +161,8 @@ http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", TVRI SPORT HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png" group-title="INDONESIA", Channel 5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/313e16f0-c2ad-11eb-bb8f-1b7a9bb441b0/1693796/307488567.jpg" group-title="INDONESIA", RCTI
