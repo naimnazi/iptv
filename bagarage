@@ -16,16 +16,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV33
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-#EXTINF: -1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA", TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="MALAYSIA", NTV7/DIDIKTV
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487230.png" group-title="MALAYSIA", 8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", 8TV BACKUP
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487231.png" group-title="MALAYSIA", TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/303748184.png" group-title="MALAYSIA", TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487225.png" group-title="MALAYSIA", Hello
