@@ -1,15 +1,21 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="MALAYSIA", RTM1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="MALAYSIA", RTM2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-id="101" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="102" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", TV3 SD
 http://50.7.161.82:8278/streams/d/TV3sd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAYSIA", TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA", TV3(TESTT)
 #http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHebWj91M4YvJjJw7T0DWyQw)/dm/3/x6qp375/d/live-3.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV33
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF: -1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA", TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="MALAYSIA", NTV7/DIDIKTV
